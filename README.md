@@ -1,7 +1,6 @@
 
 <h1 align="center"> My Generated README file 👋</h1>
   
-![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 My tutorial video: https://drive.google.com/file/d/1aA6akLl_4EAFhxss3TxgSJ_ig0b1TS2p/view
 ## Description
 🔍 A node application quickly creates a README using the terminal.
